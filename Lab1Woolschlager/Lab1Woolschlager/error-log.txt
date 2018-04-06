@@ -1,0 +1,16 @@
+lines 2, 3, and 4 are not commented out
+missing gets.chomp.upcase in line 7
+line 9 is missing == and needs tro start checking at 0
+line 12 needs to be changed to meter = gets.chomp.to_f
+line 14 needs to be conveted to i not int
+line 15 needs to be changed from feet - f to f - feet
+line 25 needs to converted to a string and line 27
+there is a spelling error in line 25 needs to be inches not inch 
+there is a unessary ; in line 19
+19 and 21 need to be conveted to feet.to
+missing the end in 23 
+change line 35 to gets.chomp.upcase()
+23 end the loop
+32 end the loop
+25 to 35 on the '' needs to be changed to "" on all single quotes
+changed line 27 to inches > 1
